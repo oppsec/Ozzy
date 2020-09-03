@@ -1,0 +1,25 @@
+{
+    "name": "ozzy",
+    "displayName": "Ozzy",
+    "description": "Omnipotent theme for Visual Studio Code",
+    "publisher": "ozzy",
+    "icon": "images/Logo.png",
+    "author": "oppsec",
+    "repository": "https://github.com/oppsec/Ozzy",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ozzy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ozzy-color-theme.json"
+            }
+        ]
+    }
+}
