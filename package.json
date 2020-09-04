@@ -4,9 +4,19 @@
     "description": "Omnipotent theme for Visual Studio Code",
     "publisher": "ozzy",
     "icon": "images/Logo.png",
+
+    "galleryBanner": {
+        "color": "#252C34",
+        "theme": "dark"
+    },
+
     "author": "oppsec",
-    "repository": "https://github.com/oppsec/Ozzy",
-    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "directory": "https://github.com/oppsec/Ozzy"
+    },
+    
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.48.0"
     },
