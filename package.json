@@ -16,7 +16,7 @@
         "directory": "https://github.com/oppsec/Ozzy"
     },
     
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.48.0"
     },
