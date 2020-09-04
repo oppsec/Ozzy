@@ -8,48 +8,48 @@
 		"editor.background": "#252C34",
 		"editor.foreground": "#eeffff",
 
-		"editor.findMatchBackground": "#000000",
-		"editor.findMatchBorder": "#000000",
-		"editor.findMatchHighlightBackground": "#000000",
+		"editor.findMatchBackground": "#252C34",
+		"editor.findMatchBorder": "#70a7ff",
+		"editor.findMatchHighlightBackground": "#252C34",
 		
-		"editor.findMatchHighlightBorder": "#000000",
-		"editor.findRangeHighlightBackground": "#70a7ff",
+		"editor.findMatchHighlightBorder": "#70a7ff",
+		"editor.findRangeHighlightBackground": "#252C34",
 		"editor.findRangeHighlightBorder": "#70a7ff",
 
 		"editor.focusedStackFrameHighlightBackground": "#70a7ff",
 		"editor.foldBackground": "#70a7ff",
 		"editor.hoverHighlightBackground": "#70a7ff65",
 		
-		"editor.inactiveSelectionBackground": "#000000",
-		"editor.lineHighlightBackground": "#414E5C",
-		"editor.lineHighlightBorder": "#414E5C",
+		"editor.inactiveSelectionBackground": "#70a7ff",
+		"editor.lineHighlightBackground": "#252C34",
+		"editor.lineHighlightBorder": "#70a7ff50",
 
 		"editor.onTypeRenameBackground": "#ffe677",
-		"editor.rangeHighlightBackground": "#000000",
-		"editor.rangeHighlightBorder": "#000000",
+		"editor.rangeHighlightBackground": "#252C34",
+		"editor.rangeHighlightBorder": "#70a7ff",
 
-		"editor.selectionBackground": "#414E5C",
+		"editor.selectionBackground": "#70a7ff50",
 		"editor.selectionForeground": "#ffffff",
-		"editor.selectionHighlightBackground": "#70a7ff",
+		"editor.selectionHighlightBackground": "#70a7ff50",
 
 		"editor.selectionHighlightBorder": "#70a7ff",
-		"editor.snippetFinalTabstopHighlightBackground": "#70a7ff",
+		"editor.snippetFinalTabstopHighlightBackground": "#252C34",
 		"editor.snippetFinalTabstopHighlightBorder": "#70a7ff",
 
-		"editor.snippetTabstopHighlightBackground": "#70a7ff",
+		"editor.snippetTabstopHighlightBackground": "#252C34",
 		"editor.snippetTabstopHighlightBorder": "#70a7ff",
-		"editor.stackFrameHighlightBackground": "#70a7ff",
+		"editor.stackFrameHighlightBackground": "#252C34",
 
 		"editor.symbolHighlightBackground": "#ffd59d78",
 		"editor.symbolHighlightBorder": "#ffd59d78",
 		"editor.wordHighlightBackground": "#a0ffa36b",
 
-		"editor.wordHighlightBorder": "#a0ffa36b",
-		"editor.wordHighlightStrongBackground": "#a0ffa36b",
-		"editor.wordHighlightStrongBorder": "#a0ffa36b",
+		"editor.wordHighlightBorder": "#70a7ff",
+		"editor.wordHighlightStrongBackground": "#252C34",
+		"editor.wordHighlightStrongBorder": "#70a7ff",
 
-		"editorBracketMatch.background": "#000000",
-		"editorBracketMatch.border": "#ffc983",
+		"editorBracketMatch.background": "#252C34",
+		"editorBracketMatch.border": "#70a7ff",
 		"editorCodeLens.foreground": "#ffffff",
 
 		"editorCursor.background": "#ffffff",
@@ -110,7 +110,7 @@
 
 
 		// ActivityBar
-		"activityBarBadge.background": "#80BAFF",
+		"activityBarBadge.background": "#4598fd",
 		"activityBar.activeBackground": "#495666",
 		"activityBar.background": "#252C34",
 
@@ -119,10 +119,10 @@
 		"activityBar.border": "#252C34",
 
 		"activityBar.dropBorder": "#252C34",
-		"activityBar.foreground": "#A586FF",
+		"activityBar.foreground": "#80BAFF",
 		"activityBar.inactiveForeground": "#bbbbbb",
 
-		"activityBarBadge.foreground": "#bbbbbb",
+		"activityBarBadge.foreground": "#ffffff",
 
 
 		// Sidebar
@@ -234,18 +234,18 @@
 		
 		"list.dropBackground": "#252C34",
 		"list.errorForeground": "#FF5858",
-		"list.filterMatchBackground": "#80b9ffb2",
+		"list.filterMatchBackground": "#252C34",
 
-		"list.filterMatchBorder": "#80b9ffb2",
-		"list.focusBackground": "#ffde6873",
+		"list.filterMatchBorder": "#80b9ff",
+		"list.focusBackground": "#252C34",
 		"list.focusForeground": "#ffffff",
 
 		"list.highlightForeground": "#ffffff",
-		"list.hoverBackground": "#38424e",
+		"list.hoverBackground": "#252C34",
 		"list.hoverForeground": "#ffffff",
 
 		"list.inactiveFocusBackground": "#252C34",
-		"list.inactiveSelectionBackground": "#80b9ffb2",
+		"list.inactiveSelectionBackground": "#252C34",
 		"list.inactiveSelectionForeground": "#ffffff",
 
 		"list.invalidItemForeground": "#FF5858",
@@ -877,6 +877,24 @@
 			],
 			"settings": {
 				"foreground": "#EEFFFF"
+			}
+		},
+
+		{
+			"name": "Section Name Markdown",
+			"scope": "entity.name.section.markdown",
+			"settings": {
+				"foreground": "#A586FF",
+				"fontStyle": "bold"
+			}
+		},
+
+		{
+			"name": "Quote Markdown",
+			"scope": "markup.quote.markdown",
+			"settings": {
+				"foreground": "#979797",
+				"fontStyle": "italic"
 			}
 		},
 
