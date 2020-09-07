@@ -3,6 +3,7 @@
 
 <br>
 
+![preview](https://i.imgur.com/l4LKH7Z.jpg)
 ![version](https://img.shields.io/badge/VERSION-1.0.0-brightgreen.svg?style=for-the-badge)
 ![license](https://img.shields.io/badge/LICENSE-MIT-blue.svg?style=for-the-badge)
 
