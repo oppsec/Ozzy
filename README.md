@@ -11,6 +11,7 @@
 ## 🖥️ Apps:
 - Visual Studio Code
 - IDA
+- Mintty *(Git Bash)*
 
 <br><br>
 
@@ -19,6 +20,7 @@
 
 * [Visual Studio Code](https://github.com/oppsec/Ozzy/tree/master/vscode)
 * [IDA](https://github.com/oppsec/Ozzy/tree/master/ida)
+* [Mintty](https://github.com/oppsec/Ozzy/tree/master/mintty)
 
 <br><br>
 
