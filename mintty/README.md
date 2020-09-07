@@ -3,7 +3,7 @@
 
 <br>
 
-![preview](https://i.imgur.com/BQ0udVT.png)
+![preview](https://i.imgur.com/rxK7wsX.png)
 
 ![version](https://img.shields.io/badge/VERSION-1.0.0-brightgreen.svg?style=for-the-badge)
 ![product](https://img.shields.io/badge/MINTTY-2.27.0-purple.svg?style=for-the-badge)
