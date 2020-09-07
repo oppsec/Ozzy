@@ -1,5 +1,5 @@
 # 👁 Ozzy
-> Omnipotent theme
+> Omnipotent theme for applications.
 
 <br>
 
@@ -12,10 +12,10 @@
 
 <br>
 
-## 🖥️ Apps:
-- Visual Studio Code
-- IDA
-- Mintty *(Git Bash)*
+## 📱 Apps:
+- 💻 Visual Studio Code
+- 🛠️ IDA
+- ⌨️ Mintty *(Git Bash)*
 
 <br><br>
 
