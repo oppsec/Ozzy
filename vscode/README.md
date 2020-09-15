@@ -19,6 +19,9 @@
 * Go to `File > Preferences > Color Scheme` and select **Ozzy**
 * Done, you're using Ozzy theme now. 🤩
 
+- **Marketplace**
+[https://marketplace.visualstudio.com/items?itemName=ozzy.ozzy](Download link)
+
 <br><br>
 
 ## 📄 License
