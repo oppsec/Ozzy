@@ -14,8 +14,7 @@
 ## 📚 Instructions
 > Here you can find the instructions to install Ozzy theme in IDA.
 
-* Go to the IDA themes folder
-*Example: C:\Program Files\IDA 7.3\themes*
+* Go to the IDA themes folder *`Example: C:\Program Files\IDA 7.3\themes`*
 * Create a folder with the name **ozzy**
 * Put the `theme.css` and `icons` in the folder.
 * Open your IDA and go to `Options` > `Colors` > `Current theme` > `ozzy`
