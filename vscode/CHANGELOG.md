@@ -1,5 +1,9 @@
 # Ozzy Changelog
 
+## [Released] - 30/09/2020 | 1.0.3
+- ✨ Added color scheme support to:
+   * Breadcumb, Git Decoration, Terminal, Minimap, Menu, Panel, Window, Checkbox, Badge, Checkbox & Debug.
+
 ## [Released] - 04/09/2020 | 1.0.2
 
 - 🔨 Fixed selection & match colors.
