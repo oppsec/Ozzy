@@ -1,0 +1,221 @@
+/*
+
+    Ozzy Website 1.0
+    made by oppsec(dsm)
+    07/09/2020
+
+*/
+
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    width: 7px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #ffffff;
+    border-radius: 60px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #A586FF;
+    border-radius: 60px;
+}
+
+/* ------------------------------------------------------------------------------------- */
+
+#landing {
+    width: 100%;
+    height: 100vh;
+    background: #252C34;
+
+    color: #ffffff;
+}
+
+.landing-container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+
+    align-items: center;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+#landing img {
+    width: 250px;
+    height: 250px;
+}
+
+#landing button {
+    border: none;
+    padding: 16px 60px;
+    border-radius: 60px;
+
+    background: #A586FF;
+    color: #ffffff;
+    font-weight: 500;
+
+    transition: ease-in-out .2s;
+}
+
+#landing button:hover {
+    background: #7a60c8;
+    transition: ease-in-out .2s;
+}
+
+/* ------------------------------------------------------------------------------------- */
+
+#features {
+    width: 100%;
+    height: 60vh;
+    background: #37424F;
+
+    color: #ffffff;
+}
+
+.features-container {
+    padding-top: 3.5rem;
+    text-align: center;
+}
+
+.feature-container {
+    background: #414E5C;
+    padding: 50px;
+    border-radius: 5px;
+}
+
+.feature-container h1 {
+    margin-top: 2rem;
+    color: #A586FF;
+}
+
+.icon-feature-container {
+    font-size: 60px;
+}
+
+.icon-feature-container i {
+    background: #A586FF;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+
+/* ------------------------------------------------------------------------------------- */
+
+#apps {
+    width: 100%;
+    height: 60vh;
+    background: #252C34;
+
+    color: #ffffff;
+}
+
+.apps-container {
+    padding-top: 3.5rem;
+    text-align: center;
+}
+
+.app-container {
+    background: #414E5C;
+    padding: 50px;
+    border-radius: 5px;
+}
+
+.app-container h1 {
+    margin-top: 2rem;
+}
+
+.app-container button {
+    padding: 16px 60px;
+    border-radius: 60px;
+    border: none;
+
+    background: #A586FF;
+    color: #ffffff;
+    font-weight: 500;
+
+    transition: ease-in-out .2s;
+}
+
+.app-container button:hover {
+    background: #7a60c8;
+    transition: ease-in-out .2s;
+}
+
+.icon-app-container {
+    font-size: 60px;
+}
+
+.icon-app-container i {
+    background: #A586FF;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+/* ------------------------------------------------------------------------------------- */
+
+#info {
+    width: 100%;
+    height: 100vh;
+    background: #37424F;
+
+    color: #ffffff;
+}
+
+.info-container {
+    padding-top: 5rem;
+}
+
+.info-palette {
+    margin-top: 2rem;
+}
+
+.info-palette .color {
+    display: inline-block;
+    padding-right: 3rem;
+}
+
+.info-palette .color p {
+    margin-top: 1rem;
+}
+
+.info-ozzy h1 {
+    padding-top: 5rem;
+}
+
+.info-ozzy button {
+    padding: 16px 60px;
+    border-radius: 60px;
+    border: none;
+
+    background: #A586FF;
+    color: #ffffff;
+    font-weight: 500;
+
+    transition: ease-in-out .2s;
+}
+
+.info-ozzy button:hover {
+    background: #7a60c8;
+    transition: ease-in-out .2s;
+}
+
+/* ------------------------------------------------------------------------------------- */
+
+footer {
+    background: #252C34;
+    color: #ffffff;
+    text-align: center;
+    
+    padding-top: 1rem;
+    padding-bottom: 0.2rem;
+}

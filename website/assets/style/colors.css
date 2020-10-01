@@ -1,0 +1,88 @@
+.info-palette .color .red {
+    width: 80px;
+    height: 80px;
+    background: #FF5858;
+
+    box-shadow: 0px 5px 10px #21272e;
+}
+
+.info-palette .color .orange {
+    width: 80px;
+    height: 80px;
+    background: #FF824D;
+
+    box-shadow: 0px 5px 10px #1c2127;
+}
+
+.info-palette .color .yellow {
+    width: 80px;
+    height: 80px;
+    background: #FFDE68;
+
+    box-shadow: 0px 5px 10px #1c2127;
+}
+
+.info-palette .color .green {
+    width: 80px;
+    height: 80px;
+    background: #76FF7B;
+
+    box-shadow: 0px 5px 10px #1c2127;
+}
+
+.info-palette .color .blue {
+    width: 80px;
+    height: 80px;
+    background: #97FFFF;
+
+    box-shadow: 0px 5px 10px #1c2127;
+}
+
+.info-palette .color .cyan {
+    width: 80px;
+    height: 80px;
+    background: #45658A;
+
+    box-shadow: 0px 5px 10px #1c2127;
+}
+
+.info-palette .color .purple {
+    width: 80px;
+    height: 80px;
+    background: #A586FF;
+
+    box-shadow: 0px 5px 10px #1c2127;
+}
+
+.info-palette .color .pink {
+    width: 80px;
+    height: 80px;
+    background: #FFA3F6;
+
+    box-shadow: 0px 5px 10px #1c2127;
+}
+
+
+.info-palette .color .bg1 {
+    width: 80px;
+    height: 80px;
+    background: #283039;
+
+    box-shadow: 0px 5px 10px #1c2127;
+}
+
+.info-palette .color .bg2 {
+    width: 80px;
+    height: 80px;
+    background: #252C34;
+
+    box-shadow: 0px 5px 10px #1c2127;
+}
+
+.info-palette .color .bg3 {
+    width: 80px;
+    height: 80px;
+    background: #37424F;
+
+    box-shadow: 0px 5px 10px #1c2127;
+}
