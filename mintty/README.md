@@ -14,8 +14,7 @@
 ## 📚 Instructions
 > Here you can find the instructions to install Ozzy theme in Mintyy (Git Bash).
 
-* Go to the Mintyy themes folder
-*Example: C:\Program Files\Git\usr\share\mintty\themes*
+* Go to the Mintyy themes folder *`Example: C:\Program Files\Git\usr\share\mintty\themes`*
 * Put the `ozzy` file inside the folder
 * Right Click on Mintty tab
 * Open your IDA and go to `Options` > `Theme` > `ozzy`

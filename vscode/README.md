@@ -21,11 +21,7 @@
 
 ## 📄 License
 - MIT license.
-=======
-* [Marketplace](https://marketplace.visualstudio.com/items?itemName=ozzy.ozzy)
-
 
 <br><br>
 
-## 📄 License
-- MIT license.
+[Marketplace](https://marketplace.visualstudio.com/items?itemName=ozzy.ozzy)
