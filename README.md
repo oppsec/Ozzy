@@ -26,6 +26,7 @@
 * [Visual Studio Code](https://github.com/oppsec/Ozzy/tree/master/vscode)
 * [IDA](https://github.com/oppsec/Ozzy/tree/master/ida)
 * [Mintty](https://github.com/oppsec/Ozzy/tree/master/mintty)
+* [Sublime Text](https://github.com/oppsec/Ozzy/tree/master/sublime)
 
 <br><br>
 
