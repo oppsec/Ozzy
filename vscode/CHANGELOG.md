@@ -1,5 +1,9 @@
 # Ozzy Changelog
 
+## [Released] - 27/10/2020 | 1.0.4
+- ✨ Added color scheme support to:
+   * editorHover, textInput, text, editorHint, editorWarning, editorWerror, editorPane, searchEditor, editorGutter...
+
 ## [Released] - 30/09/2020 | 1.0.3
 - ✨ Added color scheme support to:
    * Breadcumb, Git Decoration, Terminal, Minimap, Menu, Panel, Window, Checkbox, Badge, Checkbox & Debug.
