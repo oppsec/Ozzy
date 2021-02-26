@@ -15,7 +15,7 @@
 ## 📱 Apps:
 - 💻 Visual Studio Code
 - 🛠️ IDA
-- ⌨️ Mintty *(Git Bash)*
+- ⌨️ Git Bash
 - 💊 Sublime Text
 
 <br><br>
@@ -33,8 +33,8 @@
 ## ✨ Contributing
 > Here you can find the instructions to contribute with Ozzy theme.
 
-* [Github](https://github.com/oppsec/Ozzy)
-* Contact: daniel.sdm.contato@gmail.com
+* You have two options, opening a issue or pull request or contact me on email.
+* Contact: opps3c@gmail.com
 
 <br><br>
 
