@@ -21,11 +21,11 @@
 <br><br>
 
 ## 📚 Instructions
-> Here you can find the instructions to install Ozzy theme. 
+> Here you can find instructions of how to install Ozzy theme for the application you want: 
 
 * [Visual Studio Code](https://github.com/oppsec/Ozzy/tree/master/vscode)
 * [IDA](https://github.com/oppsec/Ozzy/tree/master/ida)
-* [Mintty](https://github.com/oppsec/Ozzy/tree/master/mintty)
+* [Git Bash](https://github.com/oppsec/Ozzy/tree/master/mintty)
 * [Sublime Text](https://github.com/oppsec/Ozzy/tree/master/sublime)
 
 <br><br>
